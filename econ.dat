@@ -1,0 +1,176 @@
+Name,Unemployment,region,inflation_rate,interest_rates,gdp_growth
+qatar,0.13,Middle East,3.1,6.25,1.2
+cambodia,0.24,East and Southeast Asia,2.1,,5
+niger,0.55,Africa,3.7,...,2.4
+thailand,0.91,East and Southeast Asia,1.2,2.5,1.9
+burundi,0.93,Africa,27,,2.7
+chad,1.08,Africa,4.1,,4.9
+bahrain,1.16,Middle East,0.1,,3
+laos,1.18,East and Southeast Asia,31.2,,3.7
+benin,1.45,Africa,2.8,...,6.4
+oman,1.46,Middle East,0.9,,1.3
+timor-leste,1.52,East and Southeast Asia,8.4,,2.3
+solomon islands,1.55,Australia and Oceania,5.1,,3.1
+vietnam,1.6,East and Southeast Asia,3.3,4.5,5
+moldova,1.62,Europe,13.4,4.75,0.7
+togo,2.05,Africa,5.3,...,5.6
+kuwait,2.08,Middle East,3.6,,-3.6
+philippines,2.23,East and Southeast Asia,6,6.5,5.5
+macao,2.25,East and Southeast Asia,0.9,,
+tonga,2.3,Australia and Oceania,10.2,,2
+cote d'ivoire,2.4,Africa,4.4,...,6.2
+japan,2.58,East and Southeast Asia,3.3,-0.1,1.7
+czechia,2.59,Europe,10.7,6.75,-0.1
+tanzania,2.61,Africa,3.8,,5.1
+korea,2.64,East and Southeast Asia,3.6,3.5,1.4
+papua new guinea,2.65,East and Southeast Asia,2.3,...,2.9
+guatemala,2.71,Central America and the Caribbean,6.2,5,3.5
+united arab emirates,2.71,Middle East,1.6,,3.6
+el salvador,2.76,Central America and the Caribbean,4,,3.5
+mexico,2.81,North America,5.5,11.25,3.2
+uganda,2.83,Africa,5.4,,4.6
+myanmar,2.84,East and Southeast Asia,27.1,,2.5
+poland,2.91,Europe,11.4,5.75,0.2
+senegal,2.93,Africa,5.9,...,4.6
+liberia,2.94,Africa,10.1,,4.6
+mali,3.01,Africa,2.1,...,4.4
+germany,3.05,Europe,6,,-0.3
+madagascar,3.06,Africa,9.9,,3.8
+nigeria,3.07,Africa,24.7,18.75,2.9
+bolivia,3.08,South America,2.6,,3.1
+ghana,3.08,Africa,39.2,30,2.9
+malta,3.13,Europe,5.6,,7.5
+sierra leone,3.17,Africa,47.7,22.25,5.7
+guinea-bissau,3.18,Africa,7.2,...,5.2
+russia,3.33,Central Asia,5.9,16,3.6
+ecuador,3.37,South America,2.2,,2.4
+israel,3.39,Middle East,4.2,4.75,2
+indonesia,3.42,East and Southeast Asia,3.7,6,5
+singapore,3.47,East and Southeast Asia,4.8,...,1.1
+ethiopia,3.5,Africa,30.2,,7.2
+mozambique,3.54,Africa,7,,5.4
+iceland,3.56,Europe,8.7,9.25,5
+netherlands,3.56,Europe,4.1,,0.1
+belarus,3.57,Europe,5,9.5,3.9
+norway,3.58,Europe,5.5,4.5,0.5
+united states,3.63,North America,4.1,5.38,2.9
+slovenia,3.63,Europe,7.4,,2.1
+cameroon,3.65,Africa,7.4,,3.2
+australia,3.67,Australia and Oceania,5.6,4.35,2
+new zealand,3.74,Australia and Oceania,5.7,5.5,0.6
+malaysia,3.86,East and Southeast Asia,2.5,3,3.6
+hong kong,3.93,East and Southeast Asia,2.1,5.75,3.3
+kyrgyzstan,4.04,Central Asia,10.8,13,6.2
+switzerland,4.05,Europe,2.1,1.75,0.7
+united kingdom,4.06,Europe,7.3,,0.3
+turkmenistan,4.12,Central Asia,-1.6,,2
+hungary,4.13,Europe,17.1,10.75,-0.9
+maldives,4.13,South Asia,2.6,,4
+india,4.17,South Asia,5.4,,8.2
+trinidad and tobago,4.21,Central America and the Caribbean,4.6,3.5,1.1
+bulgaria,4.3,Europe,8.6,3.8,1.8
+fiji,4.33,Australia and Oceania,2.3,0.25,7.5
+ireland,4.34,Europe,5.2,,-5.5
+jamaica,4.42,Central America and the Caribbean,6.5,...,2.6
+uzbekistan,4.53,Central Asia,10,14,6.3
+"congo, democratic republic of the",4.54,Africa,19.9,...,8.4
+china,4.67,East and Southeast Asia,0.2,1.8,5.2
+nicaragua,4.8,Central America and the Caribbean,8.4,,4.6
+peru,4.82,South America,6.3,...,-0.6
+kazakhstan,4.85,Central Asia,14.6,...,5.1
+saudi arabia,4.88,Middle East,2.3,...,-0.8
+malawi,5.04,Africa,28.8,,1.5
+bangladesh,5.06,South Asia,9,4,5.8
+vanuatu,5.1,Australia and Oceania,11.2,,2.2
+denmark,5.14,Europe,3.4,3.6,2.5
+luxembourg,5.19,Europe,2.9,,-1.1
+austria,5.24,Europe,7.7,,-0.8
+brunei,5.27,East and Southeast Asia,0.4,,1.4
+burkina faso,5.29,Africa,0.7,...,3.1
+guinea,5.3,Africa,7.8,,5.7
+canada,5.37,North America,3.9,5,1.2
+pakistan,5.5,South Asia,29.2,,-0.2
+belgium,5.51,Europe,2.3,,1.4
+venezuela,5.53,South America,337.5,,4
+dominican republic,5.56,Central America and the Caribbean,4.8,7,2.4
+romania,5.6,Europe,10.4,7,2.1
+azerbaijan,5.64,Middle East,8.8,8,1.1
+bhutan,5.65,South Asia,4.6,,5
+kenya,5.68,Africa,7.7,10.5,5.6
+paraguay,5.78,South America,4.6,...,4.7
+comoros,5.8,Africa,8.5,,3
+eritrea,5.87,Africa,no data,,no data
+zambia,5.91,Africa,10.9,,5.4
+puerto rico,5.96,Central America and the Caribbean,3.5,,0.6
+cyprus,5.96,Europe,3.9,,2.5
+croatia,6.06,Europe,8.4,,3.1
+honduras,6.06,Central America and the Caribbean,6.7,3,3.6
+mauritius,6.06,Africa,7,4.5,7
+mongolia,6.13,East and Southeast Asia,10.3,...,7.4
+argentina,6.18,South America,133.5,100,-1.6
+central african republic,6.29,Africa,3,,0.7
+estonia,6.35,Europe,9.1,,-3
+sri lanka,6.36,South Asia,no data,,no data
+"gambia, the",6.48,Africa,17,17,5.3
+portugal,6.49,Europe,5.3,,2.3
+latvia,6.53,Europe,9.1,,-0.3
+panama,6.7,Central America and the Caribbean,1.5,,7.3
+lithuania,6.96,Europe,8.7,,-0.3
+tajikistan,6.98,Central Asia,3.7,...,8.3
+finland,7.16,Europe,4.3,,-1.2
+egypt,7.31,Africa,24.4,19.75,3.8
+france,7.32,Europe,5.7,,1.1
+sweden,7.59,Europe,5.9,...,-0.2
+italy,7.62,Europe,5.9,,0.7
+suriname,7.7,South America,51.6,,2.1
+brazil,7.95,South America,4.6,11.75,2.9
+barbados,7.95,Central America and the Caribbean,3.2,,4.1
+belize,8.26,Central America and the Caribbean,4.4,11,1.1
+costa rica,8.3,Central America and the Caribbean,0.5,6,5.1
+uruguay,8.35,South America,5.9,,0.4
+armenia,8.59,Middle East,2,9.25,8.3
+equatorial guinea,8.67,Africa,2.5,,-6.2
+serbia,8.68,Europe,12.4,6.5,2.5
+zimbabwe,8.76,Africa,667.4,,5.3
+chile,9.04,South America,7.6,8.25,0.2
+iran,9.1,Middle East,40.7,,5
+morocco,9.11,Africa,6.1,,3.4
+"bahamas, the",9.2,Central America and the Caribbean,3.1,4,2.6
+turkey,9.41,Middle East,53.9,41,5.1
+colombia,9.57,South America,11.7,13,0.6
+samoa,9.75,Australia and Oceania,12,,8
+bosnia and herzegovina,10.42,Europe,6.1,,1.7
+mauritania,10.51,Africa,4.9,,6.5
+nepal,10.69,South Asia,7.8,7,2
+greece,11,Europe,4.2,,2
+saint lucia,11.09,Central America and the Caribbean,4.1,,2.2
+sudan,11.45,Africa,77.2,,-18.3
+lebanon,11.57,Middle East,221.3,,-0.7
+albania,11.58,Europe,4.8,3.25,3.5
+georgia,11.62,Middle East,2.5,9.5,7.5
+algeria,11.81,Africa,9.3,,4.1
+cabo verde,11.99,Africa,3.7,1.25,5.1
+spain,12.14,Europe,3.4,,2.7
+guyana,12.43,South America,4.5,5,33
+north macedonia,13.08,Europe,9.4,,1
+syria,13.54,Middle East,no data,,no data
+afghanistan,14.39,South Asia,-7.7,...,2.7
+angola,14.62,Africa,13.6,18,1
+haiti,14.62,Central America and the Caribbean,44.1,,-1.9
+rwanda,14.93,Africa,14,,8.2
+tunisia,15.11,Africa,9.3,,0
+montenegro,15.25,Europe,8.6,,6
+iraq,15.53,Middle East,4.4,...,-2.9
+lesotho,16.46,Africa,6.3,,2.2
+yemen,17.22,Middle East,0.9,,-2
+jordan,17.94,Middle East,2.1,...,2.6
+saint vincent and the grenadines,18.67,Central America and the Caribbean,4.6,,5.8
+libya,18.74,Africa,2.4,,10.2
+somalia,19.03,Africa,6.2,,4.2
+namibia,19.42,Africa,5.9,,4.2
+"congo, republic of the",20.05,Africa,4.3,,2
+gabon,20.36,Africa,3.6,,2.4
+botswana,23.38,Africa,5.1,,2.7
+djibouti,26.26,Africa,1.4,,7
+south africa,27.99,Africa,5.9,8.25,0.7
+eswatini,37.64,Africa,4.9,,4.9
